@@ -1,0 +1,46 @@
+---
+{"publish":true,"aliases":["transcription factors","transcription factor"],"created":"2024-09-02T19:15:54.000+10:00","modified":"2024-09-02T19:15:54.000+10:00","published":"2024-09-02T19:15:54.000+10:00","tags":["Uni/LFS252","flashcards/LFS252"],"cssclasses":"","dg-publish":true,"---\n# General Transcription Factors\n\n> [!ontology]-\n> up":"[[Cards/Pre-initiation Complex]]"}
+---
+
+# General Transcription Factors
+
+> [!ontology]-
+> up:: [[Pre-initiation Complex]]
+> jump:: 
+> down:: 
+
+> [!Definition] Definition
+> General transcription factors (GTFs) are a group of proteins that are essential for initiating transcription by RNA polymerase II in eukaryotes.
+
+## Types of [[Cards/General Transcription Factors]]
+
+- [[Cards/Transcription Factor IID]]
+- [[Cards/Transcription Factor IIA]]
+- [[Cards/Transcription Factor IIB]]
+
+# Reference
+
+- 
+
+## Mentions
+
+| Incoming Links                                                  |
+| --------------------------------------------------------------- |
+| [[Calendar/Daily/2024-10-21 Mon\|2024-10-21 Mon]]            |
+| [[Cards/Transcription Factor IIE\|Transcription Factor IIE]] |
+| [[Cards/Transcription Factor IIH\|Transcription Factor IIH]] |
+
+
+| Outgoing Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Pre-initiation Complex\|Pre-initiation Complex]]     |
+| [[Cards/Transcription Factor IIA\|Transcription Factor IIA]] |
+| [[Cards/Transcription Factor IIB\|Transcription Factor IIB]] |
+| [[Cards/Transcription Factor IID\|Transcription Factor IID]] |
+
+
+| Sources |
+| ------- |
+
+
+## Flashcards
